@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Krishna-Choudhary-0927/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Krishna-Choudhary-0927/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Krishna-Choudhary-0927/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Krishna-Choudhary-0927/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Krishna-Choudhary-0927/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
